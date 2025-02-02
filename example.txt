@@ -1,10 +1,7 @@
-Example file is created
-
-Names of Fruits.
-
-Apple
-Banana
-Chikoo
-Mango
-Watermelon
-
+This is a new version of Example file in branch g24ait013
+Names of Animals:
+Cat
+Dog
+Monkey
+Lion
+Tiger.
