@@ -1,4 +1,5 @@
-Example file is created
+This is a updated version of Example file in branch g24ait015
+//'orange fruit is added to the list'//
 
 Names of Fruits.
 
@@ -7,4 +8,4 @@ Banana
 Chikoo
 Mango
 Watermelon
-
+Orange
